@@ -158,5 +158,5 @@ onSlideChanged(e) {
 		);
 	}
 }
-var dbx = new Dropbox({ accessToken: '56Avmht1CGkAAAAAAAABS8gYYmjrmVC5HZc6ThJbMT168Y1MrWhY0wjfXUln64i4' }); 
+var dbx = new Dropbox({ accessToken: '<UR_ACCESS_TOKEN>' }); 
 export default Form;
